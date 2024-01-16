@@ -1,4 +1,4 @@
-# APTOS-SINGAPORE
+# Intellectual Property Exchange Protocol APTOS-SINGAPORE
 
 The issue revolved around the challenge faced by intellectual property creators due to AI advancements. AI models could scrape data from Web2 platforms and use it to generate new intellectual property more efficiently than humans. This raised concerns about protecting the rights of intellectual property creators in the Web3 era.
 
